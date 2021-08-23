@@ -47,7 +47,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 7 Description
+## :page_facing_up: Lab 4 Description
 
 :arrow_right: `Use the code in the html file to create a HTML DOM Node Tree.`
 
