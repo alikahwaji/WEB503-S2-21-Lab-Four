@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 7 👋</h1>
+<h1 align="center">Welcome to lab 4 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams](https://teams.microsoft.com/l/team/19%3a1b496be02a4249c2acd41097f307dfcf%40thread.tacv2/conversations?groupId=3b29c958-d7ed-4381-9f29-d55afcdc54b0&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [MSteams](https://teams.microsoft.com/l/channel/19%3aiINrWvGZRfPTJYiWcvt-Z2LD1Ux9D2HxVD-bkgbDt5E1%40thread.tacv2/General?groupId=258b4662-b775-4bcd-961a-e62fc74526ce&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](ali.kahwaji@nmit.ac.nz)
 
 
@@ -51,13 +51,13 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Use the code in the html file to create a HTML DOM Node Tree.`
 
-:arrow_right: `Use the journal.md for HTML DOM Node Tree.` 
+:arrow_right: `Use the journal.md for HTML DOM Node Tree digram.` 
 
 :arrow_right: `Explain each level and element in the tree inculding element attribute and text if exist.`
 
-:arrow_right: `list the approches or methods to select any element in the HTML DOM Node Tree.`
+:arrow_right: `List the approches or methods to select any element in the HTML DOM Node Tree.`
 
-:arrow_right: `Focus on DOM structure for this lab.`
+:arrow_right: `Focus on the DOM node tree structure for this lab.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
